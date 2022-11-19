@@ -1,7 +1,3 @@
 #EXTM3U
 #EXTINF:-1 ,凤凰卫视中文台
-rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
-#EXTINF:-1 ,凤凰卫视资讯台
-rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
-#EXTINF:-1 ,凤凰卫视电影台
-rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
